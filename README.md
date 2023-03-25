@@ -3,6 +3,7 @@ A quiz game using HTML, CSS, and JavaScript.A little quiz app I made by watching
 
 ## TO PLAY 
 <a href="https://sude-go.github.io/QUIZ-APP/">
+  
 ### :camera_flash: İmages
 
 <img src="img1.png">
