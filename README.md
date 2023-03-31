@@ -6,9 +6,9 @@ A quiz game using HTML, CSS, and JavaScript.A little quiz app I made by watching
   
 ### :camera_flash: İmages
 
-<img src="img1.png">
-<img src="img2.png">
-<img src="img3.png">
-<img src="img4.png">
-<img src="img5.png">
+<img src="images/img1.png">
+<img src="images/img2.png">
+<img src="images/img3.png">
+<img src="images/img4.png">
+<img src="images/img5.png">
 
